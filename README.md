@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python, Java.<br>🎯 Goal to be  Web Developer<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning Python, Java.<br>🎯 Goal to be  Web Developer</p>
 
 ###
 
