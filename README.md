@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhisek Bagdas and I'm a Computer Science Student, from Infrmatics College of Pokhara. I am intrested in joining Devolopers Community. I'm curious about learning UI/UX.</p>
+<p align="left">My name is Abhisek Bagdas and I'm a Computer Science Student, from Infrmatics College of Pokhara. I am intrested in joining Devolopers Community. I'm curious about learning new things like full stack web development.</p>
 
 ###
 
