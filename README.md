@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhisek Bagdas and I'm a Computer Science Student, from Infrmatics College of Pokhara. I am intrested in joining Devolopers Community. I'm curious about learning new things like full stack web development.</p>
+<p align="left">Hi! I’m a computer science student exploring the world of tech, one project at a time. I enjoy building responsive websites and practical tools that solve everyday problems. Right now, I’m working with HTML, CSS, JavaScript, Java, and Python, and slowly diving into backend development and databases. I'm always experimenting, learning something new, and turning ideas into real, functional web apps.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python, Java.<br>🎯 Goal to be  Web Developer</p>
+<p align="left">📚 I'm currently learning Python, Java and exploring new innovations and tech.</p>
 
 ###
 
