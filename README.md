@@ -1,4 +1,11 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">Hi! I’m a computer science student exploring the world of tech, one project at a time. I enjoy building responsive websites and practical tools that solve everyday problems. Right now, I’m working with HTML, CSS, JavaScript, Java, and Python, and slowly diving into backend development and databases. I'm always experimenting, learning something new, and turning ideas into real, functional web apps.</p>
+
 # 💫 About Me:
+
 🔭 I’m currently a fulltime student<br>👯 I’m looking to collaborate on the project based on Java<br>🤝 I’m looking for help with backend on java<br>🌱 I’m currently learning Java Servlet
 
 
